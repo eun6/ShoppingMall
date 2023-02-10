@@ -1,0 +1,15 @@
+header {
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+nav {border:1px solid gray;}
+table td {
+    border: 1px solid gray;
+    width: 20%;
+    height: 20%;
+    
+}
+table td img {
+    width: 20%;
+    height: 20%;
+}
