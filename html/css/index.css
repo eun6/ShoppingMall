@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+#main-header {
+    border: 1px solid gray;
+    margin-bottom: 1%;
+}
+#main-navigation {
+    border:1px solid gray;
+    margin-bottom: 2%;
+}
+
+table td {
+    border: 1px solid gray;
+    width: 20%;
+    height: 20%;
+    
+}
+table td img {
+    width: 20%;
+    height: 20%;
+}
+
+#main-footer{
+    margin-top: 5%;
+    color: lightgray;
+}
