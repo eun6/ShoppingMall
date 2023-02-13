@@ -1,0 +1,25 @@
+#main-header {
+    border: 1px solid gray;
+    margin-bottom: 1%;
+    display: flex;
+    
+    align-items: center;
+}
+
+#sub-header {
+    display: flex;
+    justify-content : space-evenly;
+    border: 1px solid gray;
+}
+
+#Logo {
+    width: 35%;
+    height: 35%;
+    padding : 3%;
+    border: 1px solid gray;
+}
+
+#Login, #Join, #Mypage  {
+    border: 1px solid gray;
+    padding: 1%;
+}
