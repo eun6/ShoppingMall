@@ -2,24 +2,28 @@
     border: 1px solid gray;
     margin-bottom: 1%;
     display: flex;
-    
     align-items: center;
+    justify-content :space-evenly;
 }
 
 #sub-header {
     display: flex;
-    justify-content : space-evenly;
+    align-self: flex-end;
     border: 1px solid gray;
+    
+}
+
+#sub-header p{
+    margin : 10px;
 }
 
 #Logo {
-    width: 35%;
-    height: 35%;
+    width: 30%;
+    height: 30%;
     padding : 3%;
     border: 1px solid gray;
 }
 
-#Login, #Join, #Mypage  {
+#hi {
     border: 1px solid gray;
-    padding: 1%;
 }
